@@ -24,8 +24,14 @@ http://piface.github.io/pifacedigitalio/
 Gertboard user manual
 http://www.mainelectronics.com/pdf/GERTBOARD_USER_MANUAL.pdf
 
+Linker Kit
+http://linksprite.com/wiki/index.php5?title=LinkerKit_for_Raspberry_Pi
+
 iRacer code examples
 https://github.com/conoro/iracer-controllers
+
+chipKIT Pi
+http://www.element14.com/community/community/knode/dev_platforms_kits/element14_dev_kits/microchip-chipkit/chipkit_pi
 
 Google Coder
 http://googlecreativelab.github.io/coder/

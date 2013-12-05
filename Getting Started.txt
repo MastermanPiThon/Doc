@@ -16,15 +16,10 @@ Here is a list of terms to get started.  Don’t worry if you don’t understand
 
  — sudo -  make me a sandwich … this will make sense later.
  — ls - lists the contents of the current folder
- — cd - change directory … move from one folder to another
+ — cd - change directory … move from one folder to another ('cd ..' go up a directory.  'cd ~' go to home directory.
  — mkdir - makes a folder
  — man - gives you the manual for a command
  — sudo - lets you do things you are not otherwise allowed to do (http://xkcd.com/149/)
  - apt-get install - download and install software packages
  - nano - text editor
 
-
-    — mkdir banana - (Try it!)
-        — enter ‘ls’ to list the folders and let you see the newly created folder
-        — enter ‘cd banana’ to move into the folder
-        — enter ‘cd ..’ to then get back to the previous folder using ‘cd ..’
