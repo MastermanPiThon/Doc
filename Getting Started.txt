@@ -1,0 +1,30 @@
+Getting started
+
+Terminal:  The generic term for a text based user interface on a computer.  Text based commands are entered using the keyboard and the response to the command is displayed as new lines of text.  It is a powerful tool that will be used regularly in this class.  The command line interface on the Pi is of the linux/UNIX variant.  It is used on mac, linux (including Android), and UNIX operating systems.  
+
+To open the terminal on your raspberry pi:
+1. Go to the desktop
+2. Double click on the icon labeled ‘LXTerminal’
+You should see a black window  with great text ‘pi@raspberrypi’
+
+To execute a command:
+1. Type a command (Try ‘ls’ without the quotes)
+2. Hit return
+The resulting text is the content of the current folder you are in.
+
+Here is a list of terms to get started.  Don’t worry if you don’t understand all the terms now, just remember their names.
+
+ — sudo -  make me a sandwich … this will make sense later.
+ — ls - lists the contents of the current folder
+ — cd - change directory … move from one folder to another
+ — mkdir - makes a folder
+ — man - gives you the manual for a command
+ — sudo - lets you do things you are not otherwise allowed to do (http://xkcd.com/149/)
+ - apt-get install - download and install software packages
+ - nano - text editor
+
+
+    — mkdir banana - (Try it!)
+        — enter ‘ls’ to list the folders and let you see the newly created folder
+        — enter ‘cd banana’ to move into the folder
+        — enter ‘cd ..’ to then get back to the previous folder using ‘cd ..’

@@ -1,0 +1,70 @@
+A. COURSE TITLE:
+PiThon: Programming on the Raspberry Pi using Python
+
+B. COURSE DESCRIPTION
+This course is an introduction to the Raspberry Pi single board computer and a chance to play around with some cool stuff.  In this course you will program the Raspberry Pi using Python.  Raspberry Pis, expansion boards, game controllers, wireless dongles, sensors, a camera, and LEDs will be provided.  Every student will come up with a design proposal for a project that uses some of the supplied components.  The class will choose up to 4 projects and form a team for each chosen project.  Each team will then be responsible to finish their project within the time limits of the course and present the project to the class.
+
+GitHub page: https://github.com/MastermanPiThon
+
+C. COURSE OBJECTIVES
+1. To introduce students to the Raspberry Pi
+2. Teach students the skills necessary to design and complete a software development project
+3. Build cool things!
+4. Have fun
+
+E. PRE-REQUISITES:
+You're here so you must be ready
+
+F. TEXT AND REQUIRED SUPPLIES
+Materials will be provided.  
+
+G. ASSIGNMENTS
+A project proposal that is one page or less will be required from each student.  
+3 5-10 minute status updates where each team demos what they have working so far. These are demos only.  No written material required
+A 10-20 minute demo/presentation required for each team at the end of the class.  Must include written summary of successes and failures, one page or less.
+
+H. GRADING PROCEDURES:
+Grading will be based on effort, attendance and behavior.
+
+I. COURSE POLICIES
+1. Be respectful
+2. Keep criticism constructive
+3. Help your classmates
+4. Open source code is allowed but must be cited
+
+
+J. COURSE SCHEDULE
+12/5 - Introduction
+    Assignment: Scan intro documents and think about projects you would like to do (due 12/12)
+
+12/12 - Create Github accounts, Pi Demos, Chat about projects
+    Assignment: Each student must come up with one or more project proposal and submit it to the GitHub Projects repository. Project proposal a page or less and include a summary and resources needed.  Each student must present one proposal to the class.  Each student will have 5 minutes to present their proposal (due 12/19)
+
+12/19 - Project presentations, Project & Team selections, First boot and raspberry pi intro
+    Assignment: Just kidding have a happy holiday
+
+1/2 - Complete First boot and Raspberry Pi Intro, Begin work on project
+    Assignment: Plan out the work required with your team. 
+
+1/9, 1/16, 1/23 - First sprint
+    Assignment: Prepare a short demo/review of your work so far.  Each team's demo/review should be 10 minutes or less. (due 1/30)
+
+1/30 - Sprint Review Demos, Start second sprint
+
+2/6, 2/13, 2/20, 2/27 - Second sprint
+    Assignment: Prepare a short demo/review of your work so far.  Each team's demo/review should be 10 minutes or less. (due 3/6)
+
+3/6 - Sprint Review Demos, Start third sprint
+
+3/13, 3/20, 3/27, 4/3, 4/11 - Third Sprint
+    Assignment: Prepare a short demo/review of your work so far.  Each team's demo/review should be 10 minutes or less. (due 4/18)
+
+4/18 - Sprint Review Demos, Start fourth sprint
+
+4/25, 5/1, 5/8, 5/15, 5/22 - Fourth Sprint
+    Assignment: Prepare a short demo/review of your project.  Each team's demo/review should be 20 minutes or less. Written summary must be submitted to the GitHub Projects repository (due 5/29)
+
+5/29 - Final review and demos.
+
+
+

@@ -1,0 +1,35 @@
+Links
+
+Pi FAQ
+http://www.raspberrypi.org/faqs
+
+Technical specs and docs
+http://www.raspberrypi.org/technical-help-and-resource-documents
+
+Adafruit tutorials
+http://learn.adafruit.com/category/raspberry-pi
+
+Raspberry Pi Training Videos
+http://www.element14.com/community/docs/DOC-43015/l/raspberry-pi-training-videos
+
+Getting started with the Raspberry Pi camera
+http://www.raspberrypi.org/camera
+
+Getting started with Pi-Face
+http://www.startpi.co.uk/getting-started-with-pi-face.html
+
+Pi-Face Docs
+http://piface.github.io/pifacedigitalio/
+
+Gertboard user manual
+http://www.mainelectronics.com/pdf/GERTBOARD_USER_MANUAL.pdf
+
+iRacer code examples
+https://github.com/conoro/iracer-controllers
+
+Google Coder
+http://googlecreativelab.github.io/coder/
+
+Pi Filler, Pi Copier and Pi Finder scripts:
+http://ivanx.com/raspberrypi/
+
