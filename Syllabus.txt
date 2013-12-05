@@ -6,6 +6,7 @@ This course is an introduction to the Raspberry Pi single board computer and a c
 
 GitHub page: https://github.com/MastermanPiThon
 
+
 C. COURSE OBJECTIVES
 1. To introduce students to the Raspberry Pi
 2. Build cool things!
@@ -19,7 +20,7 @@ Materials will be provided.
 
 G. ASSIGNMENTS
  - A project proposal that is one page or less will be required from each student.  
- - 3 5-10 minute status updates where each team demos what they have working so far. These are demos only.  No written material required
+ - 3 5-10 minute status updates where each team demos what they have working so far. These are demos only.  No written material required.
  - A 10-20 minute demo/presentation required for each team at the end of the class.  Must include written summary of successes and failures, one page or less.
 
 H. GRADING PROCEDURES:
@@ -30,6 +31,7 @@ I. COURSE POLICIES
 2. Keep criticism constructive
 3. Help your classmates
 4. Open source code is allowed but must be cited
+
 
 
 
