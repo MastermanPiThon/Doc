@@ -8,9 +8,8 @@ GitHub page: https://github.com/MastermanPiThon
 
 C. COURSE OBJECTIVES
 1. To introduce students to the Raspberry Pi
-2. Teach students the skills necessary to design and complete a software development project
-3. Build cool things!
-4. Have fun
+2. Build cool things!
+3. Have fun
 
 E. PRE-REQUISITES:
 You're here so you must be ready
@@ -19,9 +18,9 @@ F. TEXT AND REQUIRED SUPPLIES
 Materials will be provided.  
 
 G. ASSIGNMENTS
-A project proposal that is one page or less will be required from each student.  
-3 5-10 minute status updates where each team demos what they have working so far. These are demos only.  No written material required
-A 10-20 minute demo/presentation required for each team at the end of the class.  Must include written summary of successes and failures, one page or less.
+ - A project proposal that is one page or less will be required from each student.  
+ - 3 5-10 minute status updates where each team demos what they have working so far. These are demos only.  No written material required
+ - A 10-20 minute demo/presentation required for each team at the end of the class.  Must include written summary of successes and failures, one page or less.
 
 H. GRADING PROCEDURES:
 Grading will be based on effort, attendance and behavior.
@@ -31,6 +30,7 @@ I. COURSE POLICIES
 2. Keep criticism constructive
 3. Help your classmates
 4. Open source code is allowed but must be cited
+
 
 
 J. COURSE SCHEDULE
