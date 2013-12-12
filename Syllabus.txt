@@ -1,4 +1,4 @@
-A. COURSE TITLE:
+ A. COURSE TITLE:
 PiThon: Programming on the Raspberry Pi using Python
 
 B. COURSE DESCRIPTION

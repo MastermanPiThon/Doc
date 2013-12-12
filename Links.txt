@@ -39,3 +39,5 @@ http://googlecreativelab.github.io/coder/
 Pi Filler, Pi Copier and Pi Finder scripts:
 http://ivanx.com/raspberrypi/
 
+Github tutorial:
+http://www.vogella.com/articles/Git/article.html
