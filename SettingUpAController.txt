@@ -1,0 +1,14 @@
+Setting up a Controller
+
+Set switch on underside to X.
+Connect the controller though a powered USB hub
+
+Install joystick support
+sudo apt-get install joystick
+
+View connected input devices
+ls /dev/input/
+
+Calibrate and test:
+jscal /dev/input/js0
+jstest /dev/input/js0

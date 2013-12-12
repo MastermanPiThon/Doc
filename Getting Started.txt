@@ -24,7 +24,9 @@ Before we get started always remember 'sudo make me a sandwich' … this will ma
  - man - gives you the manual for a command
  - sudo - lets you do things you are not otherwise allowed to do (http://xkcd.com/149/)
  - apt-get install - download and install software packages
- - apt-get upgrade - download and install updated for already installed packages
+ - apt-get update then apt-get upgrade - download and install updated for already installed packages
+ - rpi-update - update the raspberry pi firmware ('sudo BRANCH=next rpi-update' to get the next beta)
+
  - git - github command line tool
  - nano - text editor
  - leafpad - graphical text editor

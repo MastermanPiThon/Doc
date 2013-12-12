@@ -37,4 +37,8 @@ See 'How to stream video from teh Rasberry Pi camera over a network'.
 Pi-Face Demo
 See 'PiFace_Get_Started'
 
+Basic Python Demo
+See 'helloPython.py'
+
 PyGame Demo
+PiPong
