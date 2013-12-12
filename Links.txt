@@ -41,3 +41,9 @@ http://ivanx.com/raspberrypi/
 
 Github tutorial:
 http://www.vogella.com/articles/Git/article.html
+
+More Raspberry Pi tutorials
+http://www.raspberrypi-spy.co.uk/
+
+Raspberry Pi Camera
+http://www.raspberrypi.org/camera
