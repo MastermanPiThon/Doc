@@ -6,6 +6,9 @@ http://www.raspberrypi.org/faqs
 Technical specs and docs
 http://www.raspberrypi.org/technical-help-and-resource-documents
 
+Pi Tutorials
+http://www.raspberrypi.org/archives/tag/tutorials
+
 Adafruit tutorials
 http://learn.adafruit.com/category/raspberry-pi
 
@@ -41,3 +44,16 @@ http://ivanx.com/raspberrypi/
 
 Github tutorial:
 http://www.vogella.com/articles/Git/article.html
+
+Xively Public Cloud
+https://xively.com/dev/tutorials/pi/
+
+Khan Academy Python tutorial
+https://www.khanacademy.org/science/computer-science-subject/computer-science
+
+More Raspberry Pi tutorials
+http://www.raspberrypi-spy.co.uk/
+
+Raspberry Pi Camera
+http://www.raspberrypi.org/camera
+

@@ -1,0 +1,39 @@
+Getting Started With Git
+
+Installing git.
+1. Open the terminal
+2. type 'sudo apt-get install git' (without quotes)
+3. Hit return
+4. Wait
+5. type 'sudo apt-get install kdiff3'
+6. Wait
+
+Configure git
+Type in the terminal:
+git config --global push.default simple
+git config --global merge.tool kdiff3
+
+
+Clone - or how to get a git repository on your computer
+
+In the terminal
+2. Go to the directory you want to download the repository to.  
+   NOTE: The repository MastermanPiThon/Doc will be downloaded into a 
+         folder called Doc
+3. enter 'git clone <git hub repository location>' 
+   NOTE: The repository MastermanPiThon/Doc would be pulled with the 
+         repository location 'https://github.com/MastermanPiThon/Doc.git'
+         without quotes.
+4. Wait
+
+
+How to create a file
+In the terminal:
+1. Go to the directory you want to create a file in.  It must be in a git repository.
+2. enter 'touch <fileName>' where <fileName> is the name of the file you want to create
+   NOTE: Don't forget the file extension
+3. to edit the file in a GUI enter 'leafpad <fileName> &'  
+   NOTE: The '&' allows you to continue to use the terminal while editing the file
+4. To add the file to the git repository entery 'git add <fileName>'
+5. To commit the changes made enter 'git commit <fileName> -m"Some message"
+6. To push the changes to the github website enter 'git push'	

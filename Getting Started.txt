@@ -10,16 +10,23 @@ You should see a black window  with great text ‘pi@raspberrypi’
 To execute a command:
 1. Type a command (Try ‘ls’ without the quotes)
 2. Hit return
-The resulting text is the content of the current folder you are in.
+The resulting text is the content of the current folder you are in.  You are in the home directory.
 
 Here is a list of terms to get started.  Don’t worry if you don’t understand all the terms now, just remember their names.
 
- — sudo -  make me a sandwich … this will make sense later.
- — ls - lists the contents of the current folder
- — cd - change directory … move from one folder to another ('cd ..' go up a directory.  'cd ~' go to home directory.
- — mkdir - makes a folder
- — man - gives you the manual for a command
- — sudo - lets you do things you are not otherwise allowed to do (http://xkcd.com/149/)
+Before we get started always remember 'sudo make me a sandwich' … this will make sense later.
+
+
+ - ls - lists the contents of the current folder
+ - cd - change directory … move from one folder to another ('cd ..' go up a directory.  'cd ~' go to home directory.
+ - mkdir - makes a folder
+ - touch - makes a file
+ - man - gives you the manual for a command
+ - sudo - lets you do things you are not otherwise allowed to do (http://xkcd.com/149/)
  - apt-get install - download and install software packages
+ - apt-get upgrade - download and install updated for already installed packages
+ - git - github command line tool
  - nano - text editor
+ - leafpad - graphical text editor
+
 
