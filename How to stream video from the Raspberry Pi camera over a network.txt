@@ -1,0 +1,36 @@
+How to stream video from the Raspberry Pi camera over a network
+
+To view the feed on Linux
+Install the dependencies by running the following in a terminal:
+sudo apt-get install mplayer netcat
+Find your IP address by running ifconfig. (Your IP address will be listed in the console output and will probably be of the form 192.168.1.XXX).
+Run the following command in a terminal to view the feed using MPlayer:
+nc -l -p 5001 | mplayer -fps 31 -cache 1024 -
+
+To view the feed on Windows
+Install and run Linux instead.
+Find your IP address by running ipconfig. (Your IP address will be listed in the console output and will probably be of the form 192.168.1.XXX).
+Download MPlayer.
+Download Netcat.
+Note that your browser may complain that these files are malicious, as they are unsigned executables.
+Press the Windows key and the ‘r’ key simultaneously to bring up the “Run” dialog. Enter cmd.exe into the dialog and press enter/return to open a DOS prompt.
+Enter the following command at the prompt to view the feed using MPlayer:
+[Path to nc.exe]\nc.exe -L -p 5001 | [Path to mplayer.exe]\mplayer.exe -fps 31 -cache 1024 -
+
+To view the feed on OS X
+Download MPlayer.
+Alternatively, you can download mplayer using Brew, which we recommend.
+Find your IP address by running ifconfig. (Your IP address will be listed in the console output and will probably be of the form 192.168.1.XXX).
+Run the following command in Terminal to view the feed using MPlayer:
+nc -l -p 5001 | mplayer -fps 31 -cache 1024 -
+
+To view the feed on a Raspberry Pi:
+Find your IP address by running ifconfig. (Your IP address will be listed in the console output and will probably be of the form 192.168.1.XXX).
+Run the following commands in a terminal on the receiving Pi:
+mkfifo buffer
+nc -p 5001 -l > buffer | /opt/vc/src/hello_pi/hello_video/hello_video.bin buffer
+
+To transmit the feed from the Pi with camera module attached
+After setting up the “receiving” machine as per the instructions above, run the following commands in a terminal on the “transmitting” Pi:
+raspivid -t 999999 -o -l | nc [insert the IP address of the client] 5001
+You can then use the commands listed in the “How to use the Raspberry Pi camera software” section above to change the capture time or to add a video effect.
