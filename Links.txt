@@ -8,6 +8,8 @@ http://www.raspberrypi.org/technical-help-and-resource-documents
 
 Pi Tutorials
 http://www.raspberrypi.org/archives/tag/tutorials
+http://www.raspberrypitutorials.yolasite.com
+http://www.linuxuser.co.uk/tutorials/make-a-game-on-raspberry-pi
 
 Adafruit tutorials
 http://learn.adafruit.com/category/raspberry-pi
