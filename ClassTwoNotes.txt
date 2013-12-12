@@ -1,0 +1,40 @@
+12/12
+
+Intro to Github
+ - Github is a web based distributed version control system.
+ - A version control system manages files as they are changed over time.
+   - Each time you commit a change the difference between the original and the 
+     current state is saved
+   - This allows every previous version of a file to be recreated without storing 
+     the entire file for each revision
+   - This only works for text files.  Binary files like images, pdfs and word docs 
+     require the storage of the entire file for each revision.
+ - A distributed version control system is a version control system where every 
+   revision of every file is stored on each computer with a copy of the repository
+   - This increases the total size of the repository on each computer
+   - Their are many reasons to pay that cost
+     - Faster and easier for an individual to look at history
+     - Can work with full version control while disconnected from the server
+     - Connection is only required to share changes with others
+     - Individuals can pull from each other without going through the server
+ - Version control systems are scary until you realize that one major purpose is to 
+   reduce the repercussions of mistakes
+ - Large Binary files are generally not good because as noted above each modification
+   requires another copy of the file.
+   - Generally small binary files are OK but even a 200KB file can quickly eat a lot of space
+   - I put a few large pdfs in the Doc repository because I intend to never edit them.  It was 
+     still sloppy.
+   - Large files can be put on a USB drive or on something like drop box
+
+Signing up to Github
+Go to github.com and sign up.
+Once you have signed up give me your user name so I can add you to the MastermanPiThon team.
+
+
+Camera Demo
+See 'How to stream video from teh Rasberry Pi camera over a network'.
+
+Pi-Face Demo
+See 'PiFace_Get_Started'
+
+PyGame Demo

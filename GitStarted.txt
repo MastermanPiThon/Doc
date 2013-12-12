@@ -36,4 +36,24 @@ In the terminal:
    NOTE: The '&' allows you to continue to use the terminal while editing the file
 4. To add the file to the git repository entery 'git add <fileName>'
 5. To commit the changes made enter 'git commit <fileName> -m"Some message"
-6. To push the changes to the github website enter 'git push'	
+6. To push the changes to the github website enter 'git push'
+
+How to pull changes from github
+1. Move to a directory in the git repository you want to update
+2. Make sure all local changes are committed
+   NOTE: Try 'git status' for information about your local repository
+3. Enter 'git pull'
+
+How to push changes to github
+1. Move to a directory in the git repository you want to push from
+2. Make sure all local changes are committed
+3. Enter 'git push'
+
+How to commit local changes
+1. Move to a directory in the git repository that has changes in it
+2. Enter 'git status' to see the status of the repository
+3. To commit all changes enter 'git commit -a -m"Some message"'
+4. To commit a specific set of files enter 'git commit <fileName1> <fileNameN> -m"Some message"
+5. If you do not provide a message you will be forced to do so using vim.
+   NOTE: vim has a cult following (as does emacs) but it's interface is non-obvious
+
