@@ -25,7 +25,7 @@ Materials will be provided.
 
 G. ASSIGNMENTS
  - A project proposal that is one page or less will be required from each student.  
- - 3 5-10 minute status updates where each team demos what they have working so far. These are demos only.  
+ - 2 5-10 minute status updates where each team demos what they have working so far. These are demos only.  
    No written material required.
  - A 10-20 minute demo/presentation required for each team at the end of the class.  
    Must include written summary of successes and failures, one page or less.
@@ -51,31 +51,29 @@ J. COURSE SCHEDULE
     repository. Project proposal a page or less and include a summary and resources needed.  Each student must 
     present one proposal to the class.  Each student will have 5 minutes to present their proposal (due 12/19)
 
-12/19 - Project presentations, Project & Team selections, First boot and raspberry pi intro
+12/19 - Project presentations, Project & Team selection
     Assignment: Just kidding have a happy holiday
 
-1/2 - Complete First boot and Raspberry Pi Intro, Begin work on project
+1/2 - First boot and Raspberry Pi Intro
     Assignment: Plan out the work required with your team. 
 
-1/9, 1/16, 1/23 - First sprint
-    Assignment: Prepare a short demo/review of your work so far.  
-    Each team's demo/review should be 10 minutes or less. (due 1/30)
+1/9, 1/16 - Introduction to Python
 
-1/30 - Sprint Review Demos, Start second sprint
+1/23 - Project reassessment and begin work on project
 
-2/6, 2/13, 2/20, 2/27 - Second sprint
+1/30, 2/6, 2/13, 2/20, 2/27 - First sprint
     Assignment: Prepare a short demo/review of your work so far.  
     Each team's demo/review should be 10 minutes or less. (due 3/6)
 
-3/6 - Sprint Review Demos, Start third sprint
+3/6 - Sprint Review Demos, Start second sprint
 
-3/13, 3/20, 3/27, 4/3, 4/11 - Third Sprint
+3/13, 3/20, 3/27, 4/3, 4/11 - Second Sprint
     Assignment: Prepare a short demo/review of your work so far.  
     Each team's demo/review should be 10 minutes or less. (due 4/18)
 
-4/18 - Sprint Review Demos, Start fourth sprint
+4/18 - Sprint Review Demos, Start third sprint
 
-4/25, 5/1, 5/8, 5/15, 5/22 - Fourth Sprint
+4/25, 5/1, 5/8, 5/15, 5/22 - Third Sprint
     Assignment: Prepare a short demo/review of your project.  
     Each team's demo/review should be 20 minutes or less. Written summary must be submitted to the GitHub 
     Projects repository (due 5/29)

@@ -1,0 +1,12 @@
+Getting started with Python
+
+To start the IDLE the Python development environment:
+1. Open the terminal
+2. enter 'sudo idle &'
+
+Create your first python file
+1. In idle go File-> New Window
+2. Enter 'print ("Hello Python")' into the new document
+3. Save file with the name 'helloPython.py'.  The imporant part is the extension '.py'
+4. Go Run->Run Module
+
