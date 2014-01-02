@@ -1,0 +1,25 @@
+1/2/2014
+
+Intro to Raspberry Pi
+
+The Pi is an ARM based single board computer.  It can run many flavors of linux the SD cards are loaded with Raspbian a Pi optimized version of Debian and set to boot into a desktop environment.  Depending on your project you may decide to boot to the command line or use an entirely different version of linux.
+
+Pi Safety
+To avoid breaking the Raspberry Pi and connected accessories follow pay attention and think before you do.
+ - Plug in power last and unplug it first. USB and Ethernet can be hot plugged but make sure you don’t knock the power cable.
+ - Do not force connectors.  Excessive force on the connectors can separate the connector from the board.
+ - The Pi runs on 5 volts but it’s IO is 3.3 Volts.  Powering the Pi with greater than 5 volts will break the Pi.  As will applying greater than 3.3 volts to an IO pin.  
+
+
+Starting Up the Raspberry Pi.
+Before starting the Pi:
+1. Insert the SD Card.  Contacts up.  
+2. Connect the Keyboard
+3. Connect the Display cable
+
+Double check the connections then plug the power cable into the Pi.
+
+Once power is connected the red ‘pwr’ LED should light up and the boot sequence should appear on the connected display.  Once the boot sequence has finished the display will show the Raspbian desktop.
+
+
+

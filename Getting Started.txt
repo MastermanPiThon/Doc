@@ -30,5 +30,8 @@ Before we get started always remember 'sudo make me a sandwich' … this will ma
  - git - github command line tool
  - nano - text editor
  - leafpad - graphical text editor
+ - idle - python IDE
 
+ - pydoc <modulename> - get documentation for python module.
+ - python - python command line tool
 
