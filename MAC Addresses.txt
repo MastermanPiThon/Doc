@@ -1,0 +1,13 @@
+MAC address:
+PiFace case: B8:27:EB:AA:93:F6
+Rasp Case (no HS): B8:27:EB:59:88:C3
+Rasp Case (HS): B8:27:EB:A8:5A:FB
+AdaFruit Case: B8:27:EB:18:DA:78
+Frosted Case: B8:27:EB:A2:59:B2
+Black Case: B8:27:EB:58:7B:EC
+
+Router: 00:0C:41:9C:D4:30
+
+MacBook Air 
+Wi-fi: 84:38:35:60:5E:DC
+USB E-net: 70:11:24:8C:BB:D2
