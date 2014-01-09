@@ -1,0 +1,16 @@
+Topics
+ - Output
+ - Variables
+ - Input
+ - Loops and Conditionals
+ - Reading and writing files
+ - Classes
+ - Programs that span multiple files
+
+
+
+
+
+Random Notes:
+ - Always use a file extension
+ - Running From the command line
