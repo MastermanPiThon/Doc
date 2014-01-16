@@ -1,3 +1,5 @@
+http://gettingstartedwithraspberrypi.tumblr.com/post/24142374137/setting-up-a-vnc-server
+
 
 #Connect to the Pi
 ssh pi@<ip_address>
@@ -11,4 +13,7 @@ sudo apt-get install tightvncserver
 tightvncserver
 
 #Start vnc session
+vncserver :1 -geometry 1024x728 -depth 24
 
+
+#Connect using ip address and VNC client (Try Chicken of the VNC for a good mac client)
