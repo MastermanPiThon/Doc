@@ -11,6 +11,7 @@ http://www.raspberrypi.org/archives/tag/tutorials
 http://www.raspberrypitutorials.yolasite.com
 http://programarcadegames.com
 http://www.brianhensley.net/p/raspberry-pi.html
+http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python
 
 PiPong
 http://www.linuxuser.co.uk/tutorials/make-a-game-on-raspberry-pi
