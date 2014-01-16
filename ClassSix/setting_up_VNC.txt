@@ -1,0 +1,14 @@
+
+#Connect to the Pi
+ssh pi@<ip_address>
+password:raspberry
+
+#Install vnc (only do this once)
+sudo apt-get install tightvncserver
+
+
+#Start vnc server
+tightvncserver
+
+#Start vnc session
+
