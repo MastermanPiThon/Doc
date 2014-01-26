@@ -4,5 +4,8 @@ http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-pyt
 Python standard library:
 http://docs.python.org/2/library/index.html
 
+Pygame libraries:
+http://www.pygame.org/tags/libraries
+
 Visualize code as it runs:
 http://pythontutor.com/visualize.html
