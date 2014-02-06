@@ -13,16 +13,17 @@ keys = [False, False, False, False]
 playerpos= [100, 100]
 acc=[0,0]
 arrows=[]
-badtime=100
+badtimer=100
 badtimer1=0
-badguys[[640, 100]]
+badguys=[[640, 100]]
+healthvalue=194
  
 # 3 - Load images
 player = pygame.image.load("resources/images/dude.png")
-grass = pygame.image.load("resource/images/grass.png")
+grass = pygame.image.load("resources/images/grass.png")
 castle = pygame.image.load("resources/images/castle.png")
 arrow = pygame.image.load("resources/images/bullet.png")
-badguyimg1 = pygame.image.load("resource/images/badguy.png")
+badguyimg1 = pygame.image.load("resources/images/badguy.png")
 badguyimg = badguyimg1
 healthbar = pygame.image.load("resources/images/healthbar.png")
 health = pygame.image.load("resources/images/health.png")
@@ -33,9 +34,9 @@ while 1:
     # 5 - clear the screen before drawing it again
     screen.fill(0)
     # 6 - draw the screen elements
-    for x in range(width/grass.get_width() + 1)
-        for y in range(height/grass.get_height() + 1)
-            screen.blit(grass, (x * 100, y * 100)
+    for x in range(width/grass.get_width() + 1):
+        for y in range(height/grass.get_height() + 1):
+            screen.blit(grass, (x * 100, y * 100))
     screen.blit(castle, (0, 30))
     screen.blit(castle, (0, 135))
     screen.blit(castle, (0, 240))
@@ -72,27 +73,28 @@ while 1:
         if badguy[0]<-64:
             badguys.pop(index)
         badguy[0]-=7
+        # 6.3.1 - Attack castle
+        badrect=pygame.Rect(badguyimg.get_rect())
+        badrect.top=badguy[1]
+        badrect.left=badguy[0]
+        if badrect.left<64:
+            healthvalue -= random.randint(5,20)
+            badguys.pop(index)
+        #6.3.2 - Check for collisions
+        index1=0
+        for bullet in arrows:
+            bullrect=pygame.Rect(arrow.get_rect())
+            bullrect.left=bullet[1]
+            bullrect.top=bullet[2]
+            if badrect.colliderect(bullrect):
+                acc[0]+=1
+                badguys.pop(index)
+                arrows.pop(index1)
+            index1+=1
+        # 6.3.3 - Next bad guy
         index+=1
     for badguy in badguys:
         screen.blit(badguyimg, badguy)
-    # 6.3.1 - Attack castle
-    badrect=pygame.Rect(badguyimg.get_rect())
-    badrect.top=badguy[1]
-    badrect.left=badguy[0]
-    if badrect.left<64:
-        healthvalue -= random.randint(5,20)
-        badguys.pop(index)
-    #6.3.2 - Check for collisions
-    index1=0
-    for bullet in arrows:
-        bullrect=pygame.Rect(arrow.get_rect())
-        bullrect.left=bullet[1]
-        bullrect.top=bullet[2]
-        if badrect.colliderect(bullrect):
-            acc[0]+=1
-            badguys.pop(index)
-            arrows.pop(index1)
-        index1+=1
 
     # 6.4 - Draw clock
     font = pygame.font.Font(None, 24)
